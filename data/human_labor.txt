@@ -1,0 +1,10 @@
+Steps that required human labor
+
+1. Identifying irrelevant submissions -> irrelevant_submissions.csv
+
+2. Evaluation of ChatGPT
+Checklists:
+- Are all the items properly extracted
+- Are the items real items
+- Are the items extracted "remmended" items
+If the checklists apply, then it's "correct"
