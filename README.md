@@ -69,3 +69,8 @@ Things to note:
 ## Evaluation
 
 Use the notebook `evaluation.ipynb` to evaluate the models and and visualize the results. The results will be stored in `results/`.
+
+
+## Appendix
+
+`appendix.pdf` is the appendix of the main paper.
